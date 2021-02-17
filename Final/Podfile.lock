@@ -1,0 +1,32 @@
+PODS:
+  - Alamofire (5.4.1)
+  - EmptyDataSet-Swift (5.0.0)
+  - lottie-ios (3.1.9)
+  - PMSuperButton (3.0.2)
+  - TextFieldEffects (1.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - EmptyDataSet-Swift
+  - lottie-ios
+  - PMSuperButton
+  - TextFieldEffects
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - EmptyDataSet-Swift
+    - lottie-ios
+    - PMSuperButton
+    - TextFieldEffects
+
+SPEC CHECKSUMS:
+  Alamofire: 2291f7d21ca607c491dd17642e5d40fdcda0e65c
+  EmptyDataSet-Swift: eb382c0c87a2d9c678077385a595cec52da38171
+  lottie-ios: 3a3758ef5a008e762faec9c9d50a39842f26d124
+  PMSuperButton: 72105fef415890c8792a9e5a784f75c461066f8b
+  TextFieldEffects: 529b8aff706fb40f82c41c780c0777941a893796
+
+PODFILE CHECKSUM: 69826197eb7f716d61ff96f484ccaf63b98cffb4
+
+COCOAPODS: 1.10.1
